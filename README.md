@@ -10,7 +10,7 @@ How have A&E waiting times in England changed since 2019, and which regions are 
 - Differences between hospital trusts (36% to 45% in the worst 10) are larger than differences between regions.
 
 ## Dashboard
-![Dashboard](A&B_DB.png)
+![Dashboard](dashboard.png)
 
 ## Data
 - NHS England, Monthly A&E Time Series (Sept 2026): [link to the NHS page]
