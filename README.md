@@ -13,8 +13,10 @@ How have A&E waiting times in England changed since 2019, and which regions are 
 ![Dashboard](dashboard.png)
 
 ## Data
-- NHS England, Monthly A&E Time Series (Sept 2026): [link to the NHS page]
-- NHS England, Monthly A&E Attendances and Emergency Admissions, Sept 2026 (CSV)
+   ## Data
+   - NHS England, [Monthly A&E Time Series (Sept 2026)](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
+   - NHS England, [A&E Attendances and Emergency Admissions, Sept 2026 (monthly CSV)](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2026-27/)
+   - Raw NHS files are not included. Download them from the links above. Cleaned files are in this repository.
 
 ## Method
 Python (pandas, matplotlib) for cleaning and analysis; Power BI for the dashboard.
